@@ -1,0 +1,30 @@
+This is README file for Algorithm PA#2
+Author: B11901029 李致頡
+=====
+SYNOPSIS:
+
+mps <input_file_name> <output_file_name>
+
+This program implement the maximum planar subset algorithm.
+=====
+DIRECTORY:
+
+src/ 	  source C++ codes
+bin/	  executable binary
+doc/	  report
+makefile  makefile
+README    this file
+
+======
+HOW TO COMPILE:
+
+To compile the demo, simply follow the following steps
+	make
+
+======
+HOW TO RUN:
+
+	./bin/mps <input_file_name> <output_file_name>
+	For example,
+	under b11901029_pa2
+	./bin/mps inputs/1000.in outputs/1000.out

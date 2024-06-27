@@ -1,1 +1,4 @@
-# 112-2_NTUEE_Algorithms_Programming_Assignments
+# 2023 Spring NTUEE Algorithms Programming Assignments
+- PA1: Sorting
+- PA2: Maximum Planar Subset
+- PA3: Cycle Breaking
